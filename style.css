@@ -20,7 +20,14 @@ body{
 
 .container > div{
     height: 210px;
-    background: url('img/bg1.jpg');
     background-size: cover;
     background-attachment: fixed;
+}
+
+.bg1{
+    background: url('img/bg1.jpg');
+}
+
+.bg2{
+    background: url('img/bg2.jpg');
 }
