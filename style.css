@@ -9,4 +9,11 @@
 body{
     background: #333;
     color: #fff;
+    font-family: 'Roboto', sans-serif;
+}
+
+.container{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 10px;
 }
