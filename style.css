@@ -33,6 +33,7 @@ p{
 }
 
 .container > div{
+    cursor: pointer;
     height: 210px;
     background-size: cover;
     background-attachment: fixed;
