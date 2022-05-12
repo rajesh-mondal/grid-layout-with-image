@@ -12,6 +12,19 @@ body{
     font-family: 'Roboto', sans-serif;
 }
 
+h2{
+    font-size: 45px;
+    font-weight: 300;
+}
+
+h2 span{
+    font-size: 30px;
+}
+
+p{
+    font-size: 20px;
+}
+
 .container{
     display: grid;
     grid-template-columns: repeat(4, 1fr);
